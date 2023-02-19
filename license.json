@@ -1,0 +1,16 @@
+{
+  "license": {
+    "version": 1,
+    "signature": "22b576d56ec51809c77884662£8d6e6818ad4407fb9beec4a0e492d3ef13dce8bdfdb6abc9b0ec044a8f6355654a9c5d6d0c25084c753fa26d0556a1162a9b99",
+    "payload": {
+      "customer": "Goldman Sachs Group",
+      "license_creation_date": "2022-05-09",
+      "product_subscription": "Kong Enterprise Subscription",
+      "support_plan": "Platinum",
+      "admin_seats": "1",
+      "dataplanes": "5",
+      "license_expiration_date": "2023-05-29",
+      "license_key": "0014100000sqtyhAAA_alVIK00000853cLUAQ"
+    }
+  }
+}
